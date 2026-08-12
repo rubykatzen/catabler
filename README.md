@@ -1,4 +1,10 @@
 # Catabler
+
+> [!WARNING]
+> This project is archived and no longer maintained. The published gem remains
+> available as a historical, unsupported release. There is no maintained
+> successor in the Rubykatzen organization.
+
 [Tabler](https://tabler.io/) ruby gem for Ruby on Rails 8
 
 ## Installation
